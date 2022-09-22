@@ -1,0 +1,18 @@
+{
+    "vocab_size": 9877,
+    "embedding_size": 300,
+    "hidden_size": 256,
+    "word_dropout_rate": 0.2,
+    "embedding_dropout_rate": 0.5,
+    "latent_dim": 16,
+    "special_tokens": {
+        "sos_token": 2,
+        "eos_token": 3,
+        "pad_token": 0,
+        "unk_token": 1
+    },
+    "max_seq_length": 60,
+    "model_type": "gru",
+    "bidirectional": false,
+    "num_layers": 2
+}
