@@ -2,7 +2,7 @@
 
 A re-implementation of the Sentence VAE paper, [Generating Sentences from a Continuous Space](https://arxiv.org/abs/1511.06349). The paper talks about modelling sentences to latent space representations and allowing deterministic decoding of these latent vectors to produce well-formed sentences. This also allows interpolation between two vectors to produce coherent sentences.
 
-*The inspiration for this implementation is from [Tim Baumgärtner's repository](https://github.com/timbmg/Sentence-VAE). The data processing code and the code flow for logging has been taken from there. The main purpose of this project was to enhance my understanding of VAEs and implement this paper for learning purposes*
+*The inspiration for this implementation is from [Tim Baumgärtner's repository](https://github.com/timbmg/Sentence-VAE). The data processing code and some helper functions have been taken from there. The main purpose of this project was to enhance my understanding of VAEs and implement this paper for learning purposes*
 
 ## Results
 
