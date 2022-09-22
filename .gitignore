@@ -2,3 +2,4 @@
 test_rnn.py
 logs
 __pycache__
+output.txt
