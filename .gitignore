@@ -1,2 +1,4 @@
 .DS_Store
 test_rnn.py
+logs
+__pycache__
